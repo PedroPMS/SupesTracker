@@ -12,6 +12,7 @@ class SupesController extends Controller
         $supes = Supe::all();
         
         return view('supes.supes', ['supes' => $supes]);
+        
     }
 
     public function show($id_supe,$supe)
