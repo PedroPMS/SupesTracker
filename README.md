@@ -1,3 +1,7 @@
+## Sobre o Projeto
+O SupesTracker é um fórum fictício que existiria no universo da séria The Boys. Informações sobre os supes, criação de posts no fórum, mapa em tempo real da localização do supes, etc.
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
